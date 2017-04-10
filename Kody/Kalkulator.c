@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-int main ()
+int main ()             //konflikt
 {    char znak;
         float pierwsza_liczba, druga_liczba;
     scanf("%c%f%f", &znak, &pierwsza_liczba, &druga_liczba);
@@ -23,5 +23,5 @@ int main ()
     break;
     }
     return 0;
-    
+
 }
