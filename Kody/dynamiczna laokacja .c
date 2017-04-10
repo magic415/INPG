@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-int* tablica(int l)
+int* tablica(int l)///konflikt
 {
     int *tab = malloc(l*sizeof(*tab)),i;
         if(tab!=NULL)
