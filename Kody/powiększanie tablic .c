@@ -5,7 +5,7 @@ Zobacz podsumowanie
 
 int * add(int* tab, int n, int new_elem)
 {
- int *wsk = malloc((n+1)*sizeof(*wsk)),i;
+ int *wsk = malloc((n+2)*sizeof(*wsk)),i;
 
     if(wsk==NULL){
         return NULL;

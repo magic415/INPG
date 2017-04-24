@@ -11,7 +11,7 @@ int* tablica(int l)
         if(tab!=NULL)
         {
             for(i=0;i<l;i++)
-                tab[i] = (2*i+1);
+                tab[i] = (3*i+1);
             return tab;
         }
         return NULL;

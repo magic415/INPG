@@ -4,8 +4,12 @@
 int main () //konflikt a;kjq;akefj;askj fas
 =======
 int main ()             //konflikt
+<<<<<<< HEAD
 >>>>>>> bef6a328955b4589b92a6162c86b340cd71d1d92
 {    char znak;
+=======
+{    char znk;
+>>>>>>> remotes/origin/Branch
         float pierwsza_liczba, druga_liczba;
     scanf("%c%f%f", &znak, &pierwsza_liczba, &druga_liczba);
     switch(znak)

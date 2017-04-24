@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define ROW 2
-#define COL 5
+#define COL 51
 
 int  main()
 
