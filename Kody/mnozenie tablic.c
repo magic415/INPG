@@ -6,7 +6,7 @@
 
 int main ()
 {
-    int Macierz1[ROW1][COL1] = {{3, 4, 5},{7, 2, 1}},
+    int Macierz1[ROW1][COL1] = {{3, 2, 5},{7, 2, 1}},
 
     Macierz2[ROW2][COL2] = {{5, 1},{4, 7},{2, 8}},
 
