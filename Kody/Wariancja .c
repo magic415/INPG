@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define R 5
+#define R 51
 int main()
 {
     float tab[R], j=0,k=0;
