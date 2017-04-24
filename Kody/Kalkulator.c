@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 int main ()             //konflikt
-{    char znak;
+{    char znk;
         float pierwsza_liczba, druga_liczba;
     scanf("%c%f%f", &znak, &pierwsza_liczba, &druga_liczba);
     switch(znak)
