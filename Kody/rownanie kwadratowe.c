@@ -5,7 +5,7 @@ int funkcja_kwadratowa(float a,float b,float c,float *wskaznik1,float *wskaznik2
     float delta;
     if(a!=0)
     {
-       delta = b*b-(4*a*c);
+       delta = b*b-(4*b*c);
        if(delta>0)
        {
             c = 2;
